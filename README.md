@@ -1,4 +1,3 @@
-Opa!!! Eu sou o Vitor e esse é o meu GitHub
 <div style= "display: flex">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorAmonRa&show_icons=true&theme=dark">
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAmonRa&layout=compact&theme=dark">
